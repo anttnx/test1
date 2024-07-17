@@ -1,0 +1,9 @@
+.block {
+    width: 150px;
+    height: 150px;
+    cursor: pointer;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+}
